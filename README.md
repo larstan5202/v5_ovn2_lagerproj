@@ -18,3 +18,17 @@ v5_ovn2_lagerproj/
 └── tests/
     └── test_stock.py
 
+## Funktionalitet
+
+StockIten reprensterar en produkt i lagret.
+
+## Atribut
+
+name - produktens namn
+amount - antal i lager
+
+Stock en lista av produkter
+
+## Tester
+
+Testerna finns i tests/test_stock.py
