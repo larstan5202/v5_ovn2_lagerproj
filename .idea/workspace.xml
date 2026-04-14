@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e1d606-0e10-4313-b6c7-d0bcc7fe8b43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/v5_ovn2_lagerproj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_stock.py" afterDir="false" />
+    <list default="true" id="90e1d606-0e10-4313-b6c7-d0bcc7fe8b43" name="Changes" comment="&quot;Test lagerhanterin&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/larstan5202/v5_ovn2_lagerproj.git",
+    "accountId": "f5763363-a763-4f4c-b415-e72d9cb08ca4"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -131,7 +127,19 @@
       <option name="presentableId" value="Default" />
       <updated>1776097252200</updated>
     </task>
+    <task id="LOCAL−00001" summary="&quot;Test lagerhanterin&quot;">
+      <option name="closed" value="true" />
+      <created>1776158903368</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1776158903368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Test lagerhanterin&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Test lagerhanterin&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
